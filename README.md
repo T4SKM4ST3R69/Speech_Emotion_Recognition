@@ -137,7 +137,6 @@ The system classifies audio into six emotion categories:
 - The default mel spectrogram width is 191 frames, but this can be adjusted
 - The system is designed to handle class imbalance in the dataset
 
-<div style="text-align: center">⁂</div>
 
 [^1]: cremad_custom2.py
 
