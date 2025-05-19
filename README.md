@@ -10,7 +10,7 @@ The system consists of three main components:
 1. **Mel Spectrogram Generator** (`mel_generator.py`): Processes audio files to create mel spectrograms with optional data augmentation.
 2. **Model Training** (`cremad_custom2.py`): Implements and trains the CNN-LSTM model with residual connections.
 3. **Model Testing** (`custom2_tester.py`): Tests the trained model on new audio files and provides detailed analysis.
-
+4. **Requirements** (`requirements.txt`): Requirements to be installed.
 ## Requirements
 
 - Python 3.6+
