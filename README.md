@@ -2,6 +2,7 @@
 # CREMA-D Emotion Recognition System
 
 This repository contains a deep learning system for speech emotion recognition using the CREMA-D dataset. The system uses mel spectrograms extracted from audio files and a CNN-LSTM architecture with residual connections to classify emotions.
+The dataset can be downloaded from - (`https://www.kaggle.com/datasets/ejlok1/cremad`)
 
 ## Overview
 
